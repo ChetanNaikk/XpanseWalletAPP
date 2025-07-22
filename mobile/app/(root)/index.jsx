@@ -12,6 +12,7 @@ import { BalanceCard } from '../../components/BalanceCard'
 import { TransactionItem } from '../../components/TransactionItem'
 import  NoTransactionsFound  from '../../components/NoTransactionsFound'
 
+
 export default function Page() {
   const router = useRouter()
   const { user } = useUser()

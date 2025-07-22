@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "mobile",
-    "slug": "mobile",
+    "slug": "xpanse-nkn49rr5hkguhh1ymhom9",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/applogo.jpg",
@@ -37,6 +37,13 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "bf09f373-cf0d-4c38-9b73-d1a1b2a71edd"
+      }
+    },
+    "owner": "chetan_naik"
   }
 }
