@@ -4,7 +4,7 @@
     "slug": "xpanse-nkn49rr5hkguhh1ymhom9",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/applogo.jpg",
+    "icon": "./assets/images/applogo.png",
     "scheme": "mobile",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
@@ -17,7 +17,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/images/applogo.jpg",
+        "foregroundImage": "./assets/images/applogo.png",
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
@@ -33,7 +33,7 @@
       [
         "expo-splash-screen",
         {
-          "image": "./assets/images/applogo.jpg",
+          "image": "./assets/images/applogo.png",
           "imageWidth": 200,
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
